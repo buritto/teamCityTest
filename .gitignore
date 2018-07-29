@@ -1,0 +1,41 @@
+# IDE
+/*.suo
+*.DotSettings.user
+*.csproj.user
+
+# build
+Release
+Debug
+**/bin/*
+*/obj/**
+
+
+# deps
+packages/*
+
+# settings
+
+# deployment
+*.pubxml.user
+*.pubxml
+
+# other
+**/AssemblyTitle.cs
+*.orig
+
+.vs/*
+.idea/*
+
+# appplication data
+AppData
+**/.vs/
+/ClassLibrary1/.idea/.idea.ClassLibrary1/.idea/workspace.xml
+/ClassLibrary1/.idea/.idea.ClassLibrary1/.idea/contentModel.xml
+/ClassLibrary1/.idea/.idea.ClassLibrary1/.idea/indexLayout.xml
+/ClassLibrary1/.idea/.idea.ClassLibrary1/.idea/modules.xml
+/ClassLibrary1/.idea/.idea.ClassLibrary1/.idea/vcs.xml
+/ClassLibrary1/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.cache
+/ClassLibrary1/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.props
+/ClassLibrary1/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.targets
+/ClassLibrary1/ClassLibrary1/obj/project.assets.json
+/ClassLibrary1/ClassLibrary1/obj/project.packagespec.json
