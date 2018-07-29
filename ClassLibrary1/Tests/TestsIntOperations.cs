@@ -7,7 +7,7 @@ namespace Tests
     [TestFixture]
     public class TestsIntOperations
     {
-        [Test]
+        [Test]    
         public void Should_add_two_integer_number()
         {
             var operations = new IntOperations();
